@@ -240,7 +240,7 @@ Menus:
 
 params:
   title: "Joachim Coline"
-  description: Electrical and software engineer
+  description: Electrical and Software Engineer
   favicon: "fav.png"
   useBootstrapCDN: false
   mathjax: false
@@ -278,7 +278,7 @@ params:
     intro: "Hi, my name is"
     title: "Joachim."
     subtitle: "I turn ideas into integrated systems"
-    content: "A passionate electrical and software engineer. Driven by impact, I provide solutions where hardware and software meet."
+    content: "A passionate Electrical and Software Engineer. Driven by impact, I provide solutions where hardware and software meet."
     image: images/hero.webp
     bottomImage:
       enable: true
@@ -301,7 +301,7 @@ params:
     title: "About Me"
     image: "images/me.webp"
     content: |-
-      With a degree in electrical engineering and a career built in software, I am a lifelong student of how things work. I thrive on the challenge of evolving technologies, consistently transforming abstract technical problems into elegant, user-friendly solutions.
+      With a degree in Electrical Engineering and a career built in software, I am a lifelong student of how things work. I thrive on the challenge of evolving technologies, consistently transforming abstract technical problems into elegant, user-friendly solutions.
       Whether I’m designing a user interface or powering an electrical system, my goal remains the same: engineering excellence, with a human touch.
 
       I am currently working as a Software Engineer at [EVS](https://evs.com/eu) where I develop and maintain software for live video productions.
@@ -336,7 +336,7 @@ params:
             date: "Aug 2020 - Mar 2025"
             content: |
               Development, delivery and maintenance of software extensions for customized X-ray and ultrasound imaging systems.
-              - Lead software engineer for multiple projects.
+               - Lead Software Engineer for multiple projects.
               - On-site deployment and support.
               - Close collaboration with customers.
               - Real-time signal processing, data visualization techniques, robotics, GUI design.
